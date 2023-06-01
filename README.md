@@ -1,2 +1,2 @@
 # DSA
-This file consists of dsa programms.
+This folder consists of dsa programs.
